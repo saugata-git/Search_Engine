@@ -1,5 +1,5 @@
 # Quest :: A-Hypertextual-Web-Search-Engine 
-   Aim of the project is to implement a search engine like Google which can search for information from several remote servers in local network based on hypertextual page rank.
+   Aim of the project is to implement a search engine like Google which can search for information from several remote servers in local networks based on hypertextual page rank.
 # Project status:
    ongoing
 # Written in:
