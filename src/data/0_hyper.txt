@@ -1,0 +1,9 @@
+http//:www.games.com/cars
+http//:www.games.com/girls
+http//:www.games.com/boys
+http//:www.games.com/action
+http//:www.games.com/sport
+http//:www.games.com/adventure
+http//:www.games.com/strategy
+http//:www.games.com/cards
+http//:www.games.com/simulation

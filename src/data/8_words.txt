@@ -1,0 +1,5 @@
+cards
+play
+games
+simulation 
+strategy

@@ -1,0 +1,6 @@
+play
+action 
+game
+boy
+strategy
+cards
