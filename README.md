@@ -5,5 +5,5 @@
 # Written in:
    C++  
 # References:
-   <a href="https://www.google.com">Google</a> :: The Anatomy of a Large-Scale Hypertextual Web Search Engine </br>
-   http://infolab.stanford.edu/~backrub/google.html
+   <a href="https://www.google.com">Google</a> :: <a href="http://infolab.stanford.edu/~backrub/google.html">The Anatomy of a Large-Scale Hypertextual Web Search Engine </br>
+   
