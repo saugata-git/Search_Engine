@@ -3,7 +3,11 @@
 # Project status:
    ongoing
 # Written in:
-   C++  
+   C/C++ 
+# Algorithm Used:
+   PageRank Algorithm
+# Network communication protocol used:
+   TCP/IP    
 # References:
    <a href="https://www.google.com">Google</a> :: <a href="http://infolab.stanford.edu/~backrub/google.html">The Anatomy of a Large-Scale Hypertextual Web Search Engine </br>
    
