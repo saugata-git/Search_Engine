@@ -1,2 +1,1 @@
-# Quest
-A-Large-Scale-Hypertextual-Web-Search-Engine
+# Quest (A-Large-Scale-Hypertextual-Web-Search-Engine)
