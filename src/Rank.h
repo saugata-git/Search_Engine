@@ -1,3 +1,7 @@
+/*
+   Quest :: A-Hypertextual-Web-Search-Engine
+   Author:: Saugata Debnath
+*/
 #pragma once
 
 void ranking(int numOfPages, LinkedList *listPtr) {
