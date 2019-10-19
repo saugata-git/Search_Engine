@@ -1,3 +1,7 @@
+/*
+   Quest :: A-Hypertextual-Web-Search-Engine
+   Author:: Saugata Debnath
+*/
 #pragma once
 ifstream fin;
 string reader;
