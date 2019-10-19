@@ -1,3 +1,8 @@
+ /*
+   Quest :: A-Hypertextual-Web-Search-Engine
+   Author:: Saugata Debnath
+*/
+
 #pragma once
 #include "Page.h"
 #include <assert.h>  
