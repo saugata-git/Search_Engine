@@ -7,7 +7,7 @@
 # Written in:
    C/C++ 
 # Algorithm Used:
-   PageRank Algorithm
+  Indexing,Ranking(PageRank Algorithm)
 # Network communication protocol used:
    TCP/IP and HTTP  
 # References:
