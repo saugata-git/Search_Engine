@@ -1,7 +1,3 @@
-/*
-   Quest :: A-Hypertextual-Web-Search-Engine
-   Author:: Saugata Debnath
-*/
 
 #include <bits/stdc++.h>
 #include <fstream>
