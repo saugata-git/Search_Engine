@@ -1,7 +1,4 @@
-/*
-   Quest :: A-Hypertextual-Web-Search-Engine
-   Author:: Saugata Debnath
-*/
+
 #pragma once
 #include <bits/stdc++.h>
 #include<sys/types.h>
