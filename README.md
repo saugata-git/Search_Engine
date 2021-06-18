@@ -9,7 +9,6 @@
    Ranking(PageRank Algorithm)
 # Network communication protocol used:
    TCP/IP  
-# References:
-   <a href="https://www.google.com">Google</a> :: <a href="http://infolab.stanford.edu/~backrub/google.html">The Anatomy of a Large-Scale Hypertextual Web Search Engine by Sergey Brin and Lawrence Page
+
 
    
